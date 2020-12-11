@@ -7,8 +7,8 @@ Aquest menú es crea amb la lectura de diferents directoris i subdirectoris que 
 Exemple:
 
 DIR -> Hardening </p>
- FILE -> Enable_disable_smbv1.ps1 </p>
- FILE -> Enable_disable_remote_desktop.ps1 </p>
+  FILE -> Enable_disable_smbv1.ps1 </p>
+  FILE -> Enable_disable_remote_desktop.ps1 </p>
 DIR -> Licenses </p>
  FILE -> Windows10_activate.ps1 </p>
  FILE -> Office_ativate.ps1 </p>
