@@ -7,8 +7,8 @@ Aquest menú es crea amb la lectura de diferents directoris i subdirectoris que 
 Exemple:
 
 - DIR -> Hardening
-  - FILE -> Enable_disable_smbv1.ps1
-  - FILE -> Enable_disable_remote_desktop.ps1
+  - FILE -> Enable-disable_smbv1.ps1
+  - FILE -> Enable-disable_remote_desktop.ps1
 - DIR -> Licenses
   - FILE -> Windows10_activate.ps1
   - FILE -> Office_ativate.ps1
@@ -16,7 +16,7 @@ Exemple:
   - FILE -> Config_IP.ps1
   - FILE -> Insert_domain.ps1
 - DIR -> Updates
-  - FILE -> Enable_disable_updates.ps1
+  - FILE -> Enable-disable_updates.ps1
 
 # MENÚ PWT_sysadmin:
 
@@ -27,7 +27,7 @@ Exemple:
   
 Choise your option:
 
-**MENÚ PWT_sysadmin - Hardening:**
+# MENÚ PWT_sysadmin - Hardening:
 
   - 1 - Enable/Disable smbv1
   - 2 - Enable/disable remote desktop
