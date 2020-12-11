@@ -18,7 +18,7 @@ Exemple:
 - DIR -> Updates
   - FILE -> Enable_disable_updates.ps1
 
-MENÚ PWT_sysadmin :
+**MENÚ PWT_sysadmin :
 
   - 1 - Hardening
   - 2 - Licenses
@@ -27,7 +27,7 @@ MENÚ PWT_sysadmin :
   
 Choise your option:
 
-MENÚ PWT_sysadmin - Hardening :
+**MENÚ PWT_sysadmin - Hardening :
 
   - 1 - Enable/Disable smbv1
   - 2 - Enable/disable remote desktop
