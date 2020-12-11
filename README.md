@@ -11,7 +11,7 @@ Exemple:
   - FILE -> Enable-disable_remote_desktop.ps1
 - DIR -> Licenses
   - FILE -> Windows10_activate.ps1
-  - FILE -> Office_ativate.ps1
+  - FILE -> Office_activate.ps1
 - DIR -> Init&Config
   - FILE -> Config_IP.ps1
   - FILE -> Insert_domain.ps1
@@ -27,9 +27,9 @@ Exemple:
   
 Choise your option:
 
-# MENÚ PWT_sysadmin - Hardening:
+# subMENÚ PWT_sysadmin - Hardening:
 
-  - 1 - Enable/Disable smbv1
+  - 1 - Enable/disable smbv1
   - 2 - Enable/disable remote desktop
   
 Choise your option:
